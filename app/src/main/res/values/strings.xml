@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Мониторинг здоровья</string>
+    <string name="app_textTop">«Комплексная система мониторинга здоровья»</string>
+    <string name="app_textFIOAuthor">Выполнил Евтухов М.В.</string>
+    <string name="app_textFIO">введите ФИО</string>
+    <string name="app_textAge">введите возраст</string>
+    <string name="app_buttonSave">СОХРАНИТЬ</string>
+    <string name="app_buttonPressure">Давление</string>
+    <string name="app_buttonHealth">Здоровье</string>
+    <string name="app_textSuccessfully">Данные успешно сохранены</string>
+    <string name="app_textPreviousReadings">Предыдущие показания</string>
+    <string name="app_textTopPressure">Верхнее давление</string>
+    <string name="app_textBottomPressure">Нижнее давление</string>
+    <string name="app_textPulse">Пульс</string>
+    <string name="app_checkTachycardia">Тахикардия</string>
+    <string name="app_textWeigth">Введите вес</string>
+    <string name="app_textSteps">Введите количесвто пройденных шагов</string>
+</resources>
